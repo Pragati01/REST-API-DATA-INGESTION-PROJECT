@@ -1,6 +1,6 @@
 #  REST API to Neon PostgreSQL Ingestion (via Google Colab)
 
-This project demonstrates how to fetch data from a public REST API, transform it using Python in Google Colab, and load it into a serverless PostgreSQL database hosted on [Neon](https://neon.tech). It uses an English-readable dataset (`https://jsonplaceholder.typicode.com/users`) and includes an automatic `load_date` column for tracking.
+This project demonstrates how to fetch data from a public REST API, transform it using Python in Google Colab, and load it into a serverless PostgreSQL database hosted on [Neon](https://neon.tech). This data is queried using [DBeaver](https://dbeaver.io/). It uses an English-readable dataset (`https://jsonplaceholder.typicode.com/users`) and includes an automatic `load_date` column for tracking.
 
 ---
 
